@@ -1,0 +1,17 @@
+{
+  "name": "the-red-room-psych-mod.zip",
+  "size": 6159129,
+  "type": "application/zip",
+  "chunkSize": 20971520,
+  "chunkCount": 1,
+  "chunks": [
+    "chunk_0000.bin"
+  ],
+  "chunkUrls": [
+    "https://raw.githubusercontent.com/VenulousThyDuckulous/raw-file-storgae-cuz-yes-data/main/storage/the-red-room-psych-mod.zip-1792952231541-smtag/chunk_0000.bin"
+  ],
+  "uploadedAt": "2026-10-25T18:17:13.998Z",
+  "storageRepo": "VenulousThyDuckulous/raw-file-storgae-cuz-yes-data",
+  "branch": "main",
+  "prefix": "storage/the-red-room-psych-mod.zip-1792952231541-smtag"
+}
